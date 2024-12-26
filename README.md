@@ -35,7 +35,7 @@ View pollutant trends, AQI values, and health alerts based on the data.
 
 Installation:
 Clone this repository to your local machine:
-git clone https://github.com/your-username/air-quality-dashboard.git
+git clone https://github.com/shivasirasangandla/ThingsSpeak.git
 Install the dependencies:
 pip install -r requirements.txt
 Run the app:
